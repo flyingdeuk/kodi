@@ -19,10 +19,7 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KTV.kr" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="Legislative",Korea TV (1080p)
-https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-EXTINF:-1 tvg-id="GugbangTV.kr" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="Undefined",Gugbang TV (1080p) [Not 24/7]
-http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="EBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" group-title="Undefined",EBS 1 (400p) [Not 24/7]
@@ -56,6 +53,12 @@ http://mytv.dothome.co.kr/ch/catv/26.php
 https://ythls.armelin.one/channel/UC-VbFgagk6GJGDJgRQIMpZw.m3u8
 #EXTINF:-1 tvg-id="MBCNet.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/512px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png" group-title="Undefined",MBC Net (480p) [Geo-blocked]
 http://mytv.dothome.co.kr/ch/catv/28.php
+
+#EXTINF:-1 tvg-id="KTV.kr" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="Legislative",Korea TV (1080p)
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GugbangTV.kr" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="Undefined",Gugbang TV (1080p) [Not 24/7]
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HLDRDTV.kr" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="Undefined",SBS CJB (540p) [Not 24/7]
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
